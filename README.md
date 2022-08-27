@@ -1,4 +1,4 @@
-![Design > Development > Deployment](https://media-exp1.licdn.com/dms/image/C4E16AQFaTaR-1EkYDA/profile-displaybackgroundimage-shrink_200_800/0/1586129857378?e=1663200000&v=beta&t=_LKUBDwoC8OL2f2vYhS1oozgXsLTnk-_lhe543JSZ8o)
+![Design > Development > Deployment](https://semidotinfotech.com/web/images/frontend_banner.jpg)
 
 ### Hi there 👋, I'm Abhijeet
 #### Design > Development > Deployment
