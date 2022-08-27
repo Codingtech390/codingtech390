@@ -6,9 +6,9 @@ A passionate Full Stack Software Developer 🚀 having a special interest in Fro
 
 ## Design > Development > Deployment
 
-Skills and Experience:
+### Skills and Experience:
 
-I am good with: 
+#### I am good with: 
 
 > HTML,
 > CSS,
@@ -17,7 +17,7 @@ I am good with:
 > MATERIAL UI,
 > BOOTSTRAP
 
-I am learning:
+#### I am learning:
 
 > EXPRESS JS,
 > MONGO DB,
@@ -27,14 +27,23 @@ I am learning:
 
 
 🔭 I’m currently working on keeping myself updated with new technologies trends. 
+
 🌱 I’m Full Time React JS developer.
+
 🌱 Learning Next JS and Typescript to enhance my skillset.
+
 💪 My strength in rapid responsive Designing.
+
 🎨 I can design amazing layout using Material Ui, Tailwind Css and Bootstrap.
+
 👯 My skills are in designing, development SEO Optimization.
+
 📝 Actively listen to customers' requests, confirming full understanding before addressing concerns.
+
 🧑💻 Plan website development, converting mockups into usable web presence with HTML, Css, Javascript and React JS.
+
 🔨 Convert graphic designs to usable web images using React JS.
+
 😄 Pronouns: He / Him 
 
 
