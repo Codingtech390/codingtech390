@@ -1,10 +1,10 @@
 ![Design > Development > Deployment](https://semidotinfotech.com/web/images/frontend_banner.jpg)
 
-### Hi there 👋, I'm Abhijeet
+# Hi there 👋, I'm Abhijeet
 
 A passionate Full Stack Software Developer 🚀 having a special interest in Frontend technologies and experience of building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.
 
-#### Design > Development > Deployment
+## Design > Development > Deployment
 
 Skills and Experience:
 
