@@ -1,27 +1,28 @@
 ![Design > Development > Deployment](https://semidotinfotech.com/web/images/frontend_banner.jpg)
 
 ### Hi there 👋, I'm Abhijeet
-#### Design > Development > Deployment
 
 A passionate Full Stack Software Developer 🚀 having a special interest in Frontend technologies and experience of building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.
+
+#### Design > Development > Deployment
 
 Skills and Experience:
 
 I am good with: 
 
-> HTML
-> CSS
-> JAVASCRIPT
-> REACT JS
-> MATERIAL UI 
+> HTML,
+> CSS,
+> JAVASCRIPT,
+> REACT JS,
+> MATERIAL UI,
 > BOOTSTRAP
 
 I am learning:
 
-> EXPRESS JS
-> MONGO DB
-> ADOBE PHOTOSHOP
-> GOOGLE FIREBASE
+> EXPRESS JS,
+> MONGO DB,
+> ADOBE PHOTOSHOP,
+> GOOGLE FIREBASE,
 > NODE JS
 
 
