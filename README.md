@@ -10,20 +10,31 @@ A passionate Full Stack Software Developer 🚀 having a special interest in Fro
 
 #### I am good with: 
 
-> HTML,
-> CSS,
-> JAVASCRIPT,
-> REACT JS,
-> MATERIAL UI,
+> HTML
+
+> CSS
+
+> JAVASCRIPT
+
+> REACT JS
+
+> MATERIAL UI
+
 > BOOTSTRAP
 
 #### I am learning:
 
-> EXPRESS JS,
-> MONGO DB,
-> ADOBE PHOTOSHOP,
-> GOOGLE FIREBASE,
+> EXPRESS JS
+
+> MONGO DB
+
+> ADOBE PHOTOSHOP
+
+> GOOGLE FIREBASE
+
 > NODE JS
+
+#### Some more things about me:
 
 
 🔭 I’m currently working on keeping myself updated with new technologies trends. 
@@ -46,6 +57,7 @@ A passionate Full Stack Software Developer 🚀 having a special interest in Fro
 
 😄 Pronouns: He / Him 
 
+### Let's connect:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codingtech390)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abhijeet390//)  
  
