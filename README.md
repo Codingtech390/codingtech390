@@ -26,9 +26,16 @@ I am learning:
 > NODE JS
 
 
-- 🔭 I’m currently working on keeping myself updated with new technologies trends. 
-- 🌱 I’m currently learning  Learning Next JS and Typescript to enhance my skillset. 
-- 😄 Pronouns: He / Him 
+🔭 I’m currently working on keeping myself updated with new technologies trends. 
+🌱 I’m Full Time React JS developer.
+🌱 Learning Next JS and Typescript to enhance my skillset.
+💪 My strength in rapid responsive Designing.
+🎨 I can design amazing layout using Material Ui, Tailwind Css and Bootstrap.
+👯 My skills are in designing, development SEO Optimization.
+📝 Actively listen to customers' requests, confirming full understanding before addressing concerns.
+🧑💻 Plan website development, converting mockups into usable web presence with HTML, Css, Javascript and React JS.
+🔨 Convert graphic designs to usable web images using React JS.
+😄 Pronouns: He / Him 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codingtech390)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abhijeet390//)  
