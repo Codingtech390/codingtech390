@@ -1,4 +1,4 @@
-![Design > Development > Deployment](https://softteco.com/wp-content/uploads/2023/01/BIG1-1024x577.jpg)
+![Design > Development > Deployment](https://media.licdn.com/dms/image/D5616AQEpqOr9jgPwGw/profile-displaybackgroundimage-shrink_350_1400/0/1687588757400?e=1722470400&v=beta&t=OQ48kNEEP3aDAIo2THaVz_4XhMCKjZq_-xrmpMNFfvM)
 
 # Hi there 👋, I'm Abhijeet
 
