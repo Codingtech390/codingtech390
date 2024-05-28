@@ -1,4 +1,4 @@
-![Design > Development > Deployment](https://semidotinfotech.com/web/images/frontend_banner.jpg)
+![Design > Development > Deployment](https://softteco.com/wp-content/uploads/2023/01/BIG1-1024x577.jpg)
 
 # Hi there 👋, I'm Abhijeet
 
